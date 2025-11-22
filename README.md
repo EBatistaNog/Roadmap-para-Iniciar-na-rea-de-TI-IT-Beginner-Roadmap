@@ -1,5 +1,5 @@
 # 📘 Roadmap de Estudos — PT-BR & EN
-Uma lista da minha visão de estudo na área de TI.
+Uma lista da minha visão de estudo na área de TI.<br>
 A list of my vision for studying in the IT field.
 
 ---
@@ -82,8 +82,11 @@ Instrutores recomendados:
 - Document everything: Confluence → https://www.atlassian.com/br/software/confluence
 
 - # 🔌 Minhas Extensões do Chrome
-Ferramentas que utilizo no navegador para aumentar produtividade, melhorar a escrita, estudar idiomas e facilitar o dia a dia.
+Ferramentas que utilizo no navegador para aumentar produtividade, melhorar a escrita, estudar idiomas e facilitar o dia a dia.<br>
+Tools I use in my browser to boost productivity, improve writing, study languages, and make my daily workflow easier.
 <img width="1349" height="580" alt="image" src="https://github.com/user-attachments/assets/f350acd7-4438-4542-9b0f-201835b9dce3" />
+
+### Lightshot e ScreenToGif
 
 ### 📄 Adobe Acrobat
 Ferramentas para editar, converter, visualizar, preencher e comentar PDFs diretamente no navegador.
