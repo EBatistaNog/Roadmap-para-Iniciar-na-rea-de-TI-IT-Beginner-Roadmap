@@ -83,6 +83,7 @@ Instrutores recomendados:
 
 - # 🔌 Minhas Extensões do Chrome
 Ferramentas que utilizo no navegador para aumentar produtividade, melhorar a escrita, estudar idiomas e facilitar o dia a dia.
+<img width="1349" height="580" alt="image" src="https://github.com/user-attachments/assets/f350acd7-4438-4542-9b0f-201835b9dce3" />
 
 ### 📄 Adobe Acrobat
 Ferramentas para editar, converter, visualizar, preencher e comentar PDFs diretamente no navegador.
