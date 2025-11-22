@@ -82,8 +82,8 @@ Instrutores recomendados:
 - Document everything: Confluence → https://www.atlassian.com/br/software/confluence
 
 - # 🔌 Minhas Extensões do Chrome
-Ferramentas que utilizo no navegador para aumentar produtividade, melhorar a escrita, estudar idiomas e facilitar o dia a dia.<br>
-Tools I use in my browser to boost productivity, improve writing, study languages, and make my daily workflow easier.
+>> Ferramentas que utilizo no navegador para aumentar produtividade, melhorar a escrita, estudar idiomas e facilitar o dia a dia.<br>
+>> Tools I use in my browser to boost productivity, improve writing, study languages, and make my daily workflow easier.
 <img width="1349" height="580" alt="image" src="https://github.com/user-attachments/assets/f350acd7-4438-4542-9b0f-201835b9dce3" />
 
 ### 🎞 Lightshot e ScreenToGif
